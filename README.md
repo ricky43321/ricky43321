@@ -6,4 +6,7 @@
 # For the advice I receive from David Bombal's YouTube channel and NetworkChuk among others. I also have to thanks all the teachers at Uacademy HTB and ITpro.tv.
 # They are the best for CompTIAA+ and CCNA CCNP they have the best courses easy to understand and fast so you can take the exam and win many battles against the Black Cap .
 # Also subcribes to their chanels it could be the best choise you can make to end 2022 and start 2023.
-# Do not missed any information subscrube to their channel and start learning today.
+# Do not missed any information subscribete to their channel and start learning today.
+# It only toke me 5 minute to understand that by myself I was not going to make in this field. 
+# Remember everything in LINUX it's a fileand like my boy said DELETED their FILES and keep others save from scams.
+
