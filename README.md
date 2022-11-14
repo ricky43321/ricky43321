@@ -8,5 +8,5 @@
 # Also subcribes to their chanels it could be the best choise you can make to end 2022 and start 2023.
 # Do not missed any information subscribete to their channel and start learning today.
 # It only toke me 5 minute to understand that by myself I was not going to make in this field. 
-# Remember everything in LINUX it's a fileand like my boy said DELETED their FILES and keep others save from scams.
+# Remember everything in LINUX it's a file and like my boy said DELETED their FILES and keep others save from scams.
 
