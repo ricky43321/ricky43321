@@ -1,12 +1,49 @@
-# My name is Ricardo. I'm really new to GitHub. I've been in the system for about 2 years, but I recently started using it.
-# I have about 6 years of experience as a pen tester and ethical hacker. Before, I practiced it for fun, today I am studying at the University of Salem in the state of West Virginia.
+IT Analyst / Cybersecurity Specialist
 
-# And obviously I study in several academies in order to achieve my goals of getting certified in various areas of work and I do not specialize in just one subject because it would be very Difficult to understand the complete system of Software and Hardware. 
-# I have to thank many people who have contributed so that I can go far and achieve my goals. 
-# For the advice I receive from David Bombal's YouTube channel and NetworkChuk among others. I also have to thanks all the teachers at Uacademy HTB and ITpro.tv.
-# They are the best for CompTIAA+ and CCNA CCNP they have the best courses easy to understand and fast so you can take the exam and win many battles against the Black Cap .
-# Also subcribes to their chanels it could be the best choise you can make to end 2022 and start 2023.
-# Do not missed any information subscribete to their channel and start learning today.
-# It only toke me 5 minute to understand that by myself I was not going to make in this field. 
-# Remember everything in LINUX it's a file and like my boy said DELETED their FILES and keep others save from scams.
+Experienced IT Analyst with more than 5 years of hands-on experience working with computer operating systems such as Windows and Linux. Proven ability to collaborate with Pen-Testers to bolster cybersecurity defenses and ensure the organization's security posture remains strong.
 
+Key Responsibilities:
+
+    Worked closely with the Pen-Tester to assess the organization's cybersecurity risks and vulnerabilities.
+    Conducted regular vulnerability assessments and penetration testing to identify security weaknesses and recommend security solutions.
+    Analyzed security data and provided reports on security threats and vulnerabilities.
+    Recommended and implemented security controls and solutions to mitigate identified security risks.
+    Monitored and maintained the organization's security posture by configuring and managing security tools and technologies.
+    Provided support and training to end-users on cybersecurity best practices.
+
+Skills and Qualifications:
+
+    2+ years of experience as an IT Analyst or Cybersecurity Specialist
+    Strong understanding of computer operating systems such as Windows and Linux
+    Hands-on experience in vulnerability assessments, penetration testing, and security controls implementation
+    Familiarity with security tools and technologies such as firewalls, IDS/IPS, and SIEMs
+    Knowledge of cybersecurity frameworks such as NIST and ISO
+    Strong analytical and problem-solving skills
+    Excellent communication and interpersonal skills, ability to work effectively in a team environment.
+Education:
+
+    Bachelor of Business Administration, Salem University of West Virginia, Expected Graduation: 2024
+    Member of the National Society of Leadership and Success (NSLS)
+    Current GPA: 3.5
+
+Relevant Coursework:
+
+    Principles of Accounting
+    Management Information Systems
+    Marketing Principles
+    Financial Management
+    Organizational Behavior
+    Business Law
+    Operations Management
+    Entrepreneurship
+
+Skills:
+
+    Strong analytical and problem-solving skills
+    Excellent written and verbal communication skills
+    Ability to work effectively in a team environment
+    Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
+    Time management and organizational skills
+    Ability to adapt to new technology and software quickly
+    Attention to detail and accuracy
+    Strong work ethic and dedication to achieving goals.
